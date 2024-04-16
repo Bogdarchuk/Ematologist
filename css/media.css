@@ -1,0 +1,483 @@
+@media (max-width: 1441px) {
+  .header {
+    height: 100%;
+  }
+.ematologist_wrapper_descr {
+  font-size: 25px;
+}
+.ematologist_wrapper_text {
+  font-size: 30px;
+}
+.banner_wrapper_header {
+  max-width: 100%;
+  text-align: center;
+  
+}
+.banner_wrapper_text {
+text-align: center;
+}
+.banner_wrapper_descr {
+  align-items: center;
+  padding-right: 100px;
+}
+
+.header_img_1 {
+  top: 50px;
+}
+
+.banner_img {
+  margin-left: 0px;
+}
+}
+
+@media (max-width: 1026px) {
+
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+.about_me_wrapper {
+    flex-direction: column;
+  }
+.about_me_wrapper_btn {
+    margin-bottom: 30px;
+  }
+.service_wrapper_btn {
+    margin-bottom: 30px;
+  }
+.service_wrapper_box_1 {
+    padding-bottom: 30px;
+  }
+.service_wrapper_box_2 {
+    height: 265px;
+  }
+.service_wrapper_box_3 {
+    height: 265px;
+  }
+.service_wrapper_box_4 {
+    height: 265px;
+  }
+.history_wrapper_inner {
+    width: 100%;
+    padding-right: 10px
+  
+  }
+.history_wrapper_inner_header {
+    font-size: 40px;
+  }
+.history_wrapper_inner_name {
+    font-size: 40px;
+  }
+.ematologist_wrapper_header {
+    font-size: 40px;
+}
+.container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.header_img_1 {
+  width: 408px; 
+   height: 612px;
+  right: 0px;
+}
+
+.about_me_photo_img {
+  
+  left: 0px;
+  width: 700px;
+  height: 900px;
+
+} 
+
+.history_wrapper_img {
+display: none;
+}
+
+.history_wrapper {
+  justify-content: center;
+}
+.history_wrapper_inner_header {
+  text-align: center;
+}
+
+.history_wrapper_inner_name {
+  font-size: 30;
+}
+.history_wrapper_inner_description {
+  font-size: 30px;
+}
+
+.kliets_wrapper_header {
+  max-width: 60%;
+}
+.history {
+  background-size: cover;
+}
+.ematologist_wrapper_descr {
+  padding: 15px;
+}
+.history_wrapper_inner {
+  padding-left: 0px;
+ max-width: 800px;
+}
+.about_me_wrapper_box {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.about_me_wrapper {
+  align-items: center;
+  
+}
+
+}
+
+@media (max-width: 769px) {
+  .about_wrapper_box {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+  }
+  .about_box {
+    width: 45%;
+  }
+  .header_wrapper {
+    flex-direction: column;
+  }
+  .problems_wrapper_header {
+    font-size: 48px;
+    margin-top: 20px;
+  }
+  .problems_wrapper_box {
+    width: 25%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+  }
+  .banner_wrapper_descr {
+    padding: 65px 0px;
+  }
+  .about_me_wrapper_header {
+    font-size: 40px;
+  }
+  .about_me_wrapper_header_presription {
+    font-size: 40px;
+  }
+  .about_me_wrapper_inner {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+.kontakts_wrapper {
+width: 100%;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 30px;
+}
+.kontakts_social {
+    padding-top: 90px;
+}
+.kontakts_wrapper_header {
+    text-align: center;
+}
+.kontakts_wrapper_text {
+    text-align: center;
+}
+.history_wrapper_inner {
+    width: 90%;
+}
+.footer_wrapper {
+  flex-direction: column;
+  gap: 60px;
+}
+.header_img_1 {
+  display: none;
+}
+.about_wrapper_main_text {
+  text-align: center;
+  max-width: 1000px;
+}
+.about_wrapper_text {
+  text-align: center;
+  max-width: 700px;
+}
+.about_wrapper_prescription {
+  align-items: center;
+  justify-content: center;
+}
+
+.klients_img_1 {
+  width: 50%;
+  height: 85%;
+  right: 0px;
+}
+
+.kliets_wrapper_header {
+  font-size: 30px;
+}
+.kliets_wrapper_header_inner {
+  font-size: 30px;
+}
+
+.about_me_photo_img {
+  display: none;
+}
+
+.about_me_wrapper {
+flex-direction: column-reverse;
+}
+
+.about_me_wrapper_box {
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+}
+
+@media (max-width: 526px) {
+
+.header_wrapper {
+    flex-direction: column;
+}
+.about_wrapper_box {
+  margin: 0 auto;
+  margin-top: 30px;
+    gap: 30px;
+    padding: 10px 20px;
+    width: 60%;
+}
+.about_box_wrapper {
+  justify-content: center;
+}
+.about_box_wrapper_dscr {
+    word-break: break-all;
+}
+.about_box {
+    width: 100%;
+    text-align: center;
+}
+.kliets_wrapper_descr {
+    margin-left: 10px;
+    padding-top: 20px;
+}
+.kliets_wrapper_header {
+    font-size: 30px;
+    text-align: center;
+    flex-direction: column;
+}
+.kliets_wrapper_text {
+    text-align: center;
+}
+.kliets_wrapper_header_inner {
+    font-size: 20px;
+}
+.about_me_wrapper_header {
+    text-align: center;
+}
+.service_wrapper_header {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.service_wrapper_box_header {
+    text-align: center;
+}
+.kontakts_social_img {
+    display: none;
+}
+.kontakts_social {
+    padding-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  .kontakts_wrapper {
+    height: 100%;
+    
+}
+.reviews_wrapper_header {
+    font-size: 30px;
+}
+.reviews_text {
+    text-align: center;
+    font-size: 15px;
+}
+.container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.ematologist_wrapper_header {
+    font-size: 20px;
+}
+.ematologist_wrapper_text {
+    font-size: 15px;
+}
+.ematologist_wrapper_descr {
+    font-size: 15px;
+}
+.history {
+  background-size: cover;
+}
+.kontakts_wrapper {
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50px;
+}
+.kontakts_wrapper_header {
+  margin-left: 0px;
+}
+.kontakts_wrapper_text {
+  margin-left: 0px;
+}
+.kontakts_social {
+  margin-left: 0px;
+}
+.kliets_wrapper_descr_inner {
+  flex-direction: column;
+  width: 70%;
+}
+.kliets_wrapper_descr {
+  margin-left: 0px;
+}
+.banner_wrapper_header {
+  
+  text-align: center;
+  max-width: 100%;
+  font-size: 40px;
+}
+.banner_wrapper_descr {
+  align-items: center;
+  
+  
+}
+.banner_wrapper {
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  border-radius: 50px;
+}
+.problems_wrapper_box {
+  width: 30%;
+}
+.problems_wrapper_header {
+  font-size: 30px;
+}
+.about_wrapper_main_text {
+  font-size: 30px;
+}
+.banner_wrapper_text {
+  text-align: center;
+}
+.about_me_wrapper_name {
+  margin-top: 30px;
+}
+.carousel_item_inner {
+  padding: 10px 20px;
+}
+.kontakts_wrapper_header_span {
+  font-size: 36px;
+}
+.kontakts_wrapper_header {
+  font-size: 36px;
+}
+.problems_wrapper_box {
+  width: 40%;
+}
+
+.banner_img {
+display: none;
+}
+}
+
+@media (max-width: 326px) {
+  .header_wrapper_list {
+    flex-direction: column;
+  }
+  .problems_wrapper_header {
+    font-size: 30px;
+  }
+  .kliets_wrapper_descr_inner_info_text {
+    font-size: 10px;
+  }
+  .kliets_wrapper_descr_inner {
+    width: 95%;
+  }
+  .banner_wrapper_but {
+    width: 100%;
+  }
+  .banner_wrapper_header {
+    font-size: 30px;
+  }
+  .service_wrapper_btn {
+    width: 200px;
+    height: 60px;
+  }
+  .service_wrapper_box_header {
+    padding-left: 0px;
+    padding: 10px;
+    padding-top: 10px;
+  }
+  .service_wrapper_text {
+    padding-left: 0px;
+    padding: 10px;
+    text-align: center;
+  }
+  .container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .kontakts_social_img {
+    display: none;
+  }
+  .kontakts_wrapper_header {
+    margin-left: 0px;
+  }
+  .kontakts_wrapper_text {
+    margin-left: 0px;
+  }
+  .kontakts_social {
+    margin-left: 0px;
+  }
+.reviews_wrapper_box {
+  padding: 10px;
+}
+.history_wrapper {
+justify-content: center;
+}
+.kliets_wrapper_descr_inner {
+  width: 100%;
+}
+.about_wrapper_box {
+  width: 85%;
+}
+.header_wrapper_list{
+  text-align: center;
+  align-items: center;
+  padding-left: 0%;
+}
+.but_list {
+  display: none;
+}
+
+.banner_wrapper_descr {
+  padding: 30px;
+}
+
+.klients_img_1 {
+  display: none;
+}
+
+.history_wrapper_inner_description {
+  font-size: 20px;
+}
+.history_wrapper_inner {
+  max-width: 100%;
+  width: 100%;
+}
+
+.about_me_wrapper_text {
+  font-size: 15px;
+}
+}
